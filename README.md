@@ -1,4 +1,8 @@
-# Token Radar
+# token-radar-01
+
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/bisabos/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/bisabos/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 The best token launch radar: 200 pre-token protocols from a sealed
 DefiLlama snapshot, ranked by implied value, with a farm plan for each.
@@ -43,3 +47,7 @@ entry's own claim, never one make.fun makes. A protocol "records no token"
 means the snapshot records no market cap, CoinGecko id or symbol for it.
 
 License: MIT.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=xj3aqnc6&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
